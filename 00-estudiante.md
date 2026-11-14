@@ -1,6 +1,6 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
+- **Apellido y nombre:** Candia Eliana
 - **Carrera:** Tecnicatura Superior en Preceptoría
-- **Cohorte / turno:**
-- **Fecha:**
+- **Cohorte / turno:** Intensivo
+- **Fecha:** 2025
